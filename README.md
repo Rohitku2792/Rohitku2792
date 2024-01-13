@@ -4,8 +4,8 @@
 - 💞️ I’m looking for a job in Frontend Development
 - 📫 How to reach me
 - 
-        -linkedIn Profile-linkedin.com/in/rohit-kumar-5a0341203
-        -Email- Rohitku2792@gmail.com
+        linkedIn Profile-linkedin.com/in/rohit-kumar-5a0341203
+        Email- Rohitku2792@gmail.com
 
 <!---
 Rohitku2792/Rohitku2792 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
